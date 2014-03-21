@@ -1,0 +1,24 @@
+{
+  "name": "mySQL",
+  "version": "0.0.1",
+  "description": "Ett exempel på hur man använder en mySQL databas",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/niklasek/nodejs-exempel"
+  },
+  "keywords": [
+    "mySQL"
+  ],
+  "author": "Niklas Ekman",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/niklasek/nodejs-exempel/issues"
+  },
+  "dependencies": {
+    "mysql": "~2.1.1"
+  }
+}
